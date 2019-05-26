@@ -2,6 +2,7 @@ package com.trillionclub.consultantsdirectory.presentation
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import consultantsdirectory.trillionclub.com.consultantsdirectory.R
 
 class CategoryActivity : AppCompatActivity() {
 
