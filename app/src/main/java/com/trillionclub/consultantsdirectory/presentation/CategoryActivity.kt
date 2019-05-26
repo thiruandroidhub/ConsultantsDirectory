@@ -11,11 +11,3 @@ class CategoryActivity : AppCompatActivity() {
         setContentView(R.layout.activity_category)
     }
 }
-
-
-// 1. Cleaner Architecture
-// 2. Kotlin
-// 3. Rx Javav - Multi threading  - Concerrrancy
-
-
-// Google blogging api  - CRUD bloggs
